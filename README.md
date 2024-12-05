@@ -83,6 +83,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
+<img src="(https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/ProfessorPosition.png)">
 ![보직교수님 사인](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/ProfessorPosition.png)
 
 - **활동내용**
