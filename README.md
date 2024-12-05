@@ -83,7 +83,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![보직교수님 사인](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/ProfessorPosition.png)
+![보직교수님 사인](./ProfessorPosition.png)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
@@ -112,7 +112,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![서버실](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/server.jpg)
+![서버실](./server.jpg)
 
 ### 4. 3,4학년 과목 담당 교수님 사인 ###
 - **일시** : 2024.10.30 (수) 오후 1:30
@@ -120,7 +120,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![3,4학년교수님](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/34professor.jpeg)
+![3,4학년교수님](./34professor.jpeg)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
@@ -143,7 +143,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![행정실](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/server.jpg)
+![행정실](./server.jpg)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
@@ -177,7 +177,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![정통처](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/ICO.jpg)
+![정통처](./ICO.jpg)
 
 - **활동 내용**:
   <details><summary> 활동내용 요약 </summary>
@@ -203,7 +203,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![교수님](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/professor.png)
+![교수님](./professor.png)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
@@ -235,7 +235,7 @@
 - **불참자가 있는 경우 사유** : 병결
 
 - **인증샷** 
-![멘토링](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/mentoring.png)
+![멘토링](./mentoring.png)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
