@@ -35,7 +35,7 @@
 - **참석인원/팀인원** : 6/6
 
 - **인증샷**
-![대학원생 사인1,2](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/postgraduate.png)
+![대학원생 사인1,2](./postgraduate.png)
 
 - **활동내용**
   <details><summary> 팀의 관심사 중 어떤 것을 알아보려고 했는가? </summary>
