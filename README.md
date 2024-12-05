@@ -244,7 +244,8 @@
   </details> 
   <details><summary> 멘토링 일지 </summary>
     
-  ![멘토링 일지](https://github.com/kookmin-sw-eureka/eureka-2024-220/blob/main/mentor.pdf)
+  ![멘토링 일지](./mentorMerged.jpg)
+  
   </details> 
 
 
